@@ -1,0 +1,1 @@
+<a href="<?php echo e(url(AdminPath().'/category/'.$id.'/edit')); ?>" class="btn btn-warning"><?php echo e(trans('orbscope.edit')); ?></a>

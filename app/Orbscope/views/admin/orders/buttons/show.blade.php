@@ -1,0 +1,1 @@
+<a href="{{ url('admin/orders/'.$id)}}" class="btn blue">{{trans('orbscope.show')}}</a>

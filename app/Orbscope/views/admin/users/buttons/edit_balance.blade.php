@@ -1,0 +1,1 @@
+<a id="set_editor" data-id="{{$id}}" class="btn btn-warning">{{trans('orbscope.edit')}}</a>

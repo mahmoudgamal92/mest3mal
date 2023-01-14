@@ -1,0 +1,1 @@
+{{trans('orbscope.'.$service)}}

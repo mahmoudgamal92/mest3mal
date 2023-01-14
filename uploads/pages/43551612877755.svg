@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 43" width="44" height="43">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-348 -1674L1572 -1674L1572 1012L-348 1012Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="My Reward - Badge" clip-path="url(#cp1)">
+		<g id="Group 2332">
+			<g id="Group 2590">
+				<g id="Repeat Grid 21">
+					<g id="Layer">
+						<g id="Group 2587" style="opacity: 0.996">
+							<g id="Group 2578">
+								<g id="Component 25 – 10">
+									<path id="Icon ionic-ios-send" class="shp0" d="M41.65 0.13L0.68 17.99C-0.05 18.34 -0.03 19.38 0.71 19.7L11.79 25.96C12.45 26.33 13.27 26.25 13.84 25.76L35.69 6.92C35.84 6.8 36.18 6.56 36.32 6.7C36.46 6.84 36.24 7.18 36.12 7.32L17.21 28.62C16.68 29.21 16.6 30.08 17.03 30.75L24.27 42.37C24.63 43.07 25.64 43.06 25.97 42.35L42.91 1.37C43.28 0.57 42.44 -0.25 41.65 0.13Z" />
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

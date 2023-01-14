@@ -1,0 +1,1 @@
+<a href="<?php echo e(url(AdminPath().'/cities/'.$id)); ?>" class="btn blue"><?php echo e(trans('orbscope.show')); ?></a>

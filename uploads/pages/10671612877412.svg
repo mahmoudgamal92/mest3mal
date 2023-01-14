@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 45" width="46" height="45">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-338 -1441L1582 -1441L1582 1245L-338 1245Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="My Reward - Badge" clip-path="url(#cp1)">
+		<g id="Group 2332">
+			<g id="Group 2589">
+				<g id="Repeat Grid 21">
+					<g id="Layer">
+						<g id="Group 2587" style="opacity: 0.996">
+							<g id="Group 2578">
+								<g id="Component 25 – 9">
+									<path id="Icon awesome-star" class="shp0" d="M20.59 2.31L15.08 13.48L2.76 15.27C0.55 15.6 -0.34 18.32 1.27 19.88L10.18 28.57L8.07 40.84C7.69 43.06 10.03 44.72 11.99 43.69L23.01 37.89L34.04 43.69C36 44.71 38.33 43.06 37.95 40.84L35.84 28.57L44.76 19.88C46.36 18.32 45.48 15.6 43.27 15.27L30.94 13.48L25.43 2.31C24.45 0.32 21.59 0.29 20.59 2.31L20.59 2.31Z" />
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

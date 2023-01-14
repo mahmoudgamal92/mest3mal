@@ -1,0 +1,1 @@
+<a href="{{ url(AdminPath().'/cities/'.$id)}}" class="btn blue">{{trans('orbscope.show')}}</a>
